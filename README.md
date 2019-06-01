@@ -1,3 +1,5 @@
+ <img src="https://img.shields.io/crates/l/rustc-serialize/0.3.24.svg">
+ 
  * vue-signature v1.0.0
  * (c) 2019-2019 Chasen Gao
  * Released under the MIT/Apache 2.0 License.
